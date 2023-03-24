@@ -1,0 +1,8 @@
+int a;
+int b;
+int c;
+c = c * b + a;
+int F[3], g[0], h, i, J, K;
+fie(a,b,i,"ab");
+print("<%, %>.\h", a, b);
+print("asd");
