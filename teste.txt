@@ -1,8 +1,14 @@
-int a;
-int b;
-int c;
-c = c * b + a;
+fie(a,b,c,d) {
+}
+
+fee(){
+int a, b, c, f, k, q;
 int F[3], g[0], h, i, J, K;
+int p;
 fie(a,b,i,"ab");
-print("<%, %>.\h", a, b);
-print("asd");
+fie("a",b,i,"ab");
+c = c * b + p;
+print("<%, %>.\h", p, q);
+p = "str";
+a = 10;
+}
